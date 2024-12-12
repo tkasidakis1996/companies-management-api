@@ -1,4 +1,4 @@
-Document about how to use Nest.js for APIs (https://docs.google.com/document/d/16aUyrlUoc7TEwyYRUZodRgQOCVWq--pH/edit#heading=h.1jlao46)
+Nest.js, Prisma. Testing and more (https://docs.google.com/document/d/16aUyrlUoc7TEwyYRUZodRgQOCVWq--pH/edit#heading=h.1jlao46)
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
